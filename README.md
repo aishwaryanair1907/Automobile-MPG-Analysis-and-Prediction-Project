@@ -25,8 +25,8 @@ Report and visualize residuals using:
 R Programming Language
 
 # Project Structure
-data: Contains the auto-mpg dataset (auto-mpg.csv).
-scripts: R scripts for data analysis, regression, prediction, and visualization
+    data: Contains the auto-mpg dataset (auto-mpg.csv). 
+    Scripts: R scripts for data analysis, regression, prediction, and visualization
 
 # Results and Contributions
 This project contributes insights into the relationship between engine factors and fuel efficiency in automobiles. Regression analysis provides predictive models, and visualizations enhance the understanding of the dataset.
